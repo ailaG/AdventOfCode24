@@ -1,0 +1,4 @@
+Example 1: 161
+Part 1: 174103751
+
+Example 2: 48
