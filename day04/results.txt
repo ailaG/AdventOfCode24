@@ -1,0 +1,8 @@
+part 1:
+example0: 4
+example: 16
+part1: 2500
+
+part 2:
+example: 9
+part2: 
